@@ -1,8 +1,8 @@
 ### Hi, I'm Justin
 
 I'm a full-stack engineer in Burbank, CA. Most of my work is TypeScript: React and React Native
-on the front end, Node.js and GraphQL behind it, and the AWS or Cloudflare infrastructure under
-both, managed with Terraform.
+on the front end, REST and GraphQL APIs in Node.js behind it, and the AWS or Cloudflare
+infrastructure under both, managed with Terraform.
 
 **Things I've built lately**
 
