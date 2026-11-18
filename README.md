@@ -14,10 +14,12 @@ infrastructure managed with Terraform.
   with Terraform, Playwright and Jest. (Private repo.)
 - **tetromino-viz**: a raw WebGL tetromino enumerator/visualizer with a Canvas 2D fallback and a React
   wrapper. It's the home page of my site.
-- **[Snek-VG](https://justinharrison.dev/scratch/snake)**: my take on Snake, drawn in SVG, with two
+- **[Snek-VG](https://justinharrison.dev/scratch/snake)**: my take on Snake, drawn in SVG, with a few
   twists. Disco grubs set off a 10-second frenzy of wandering bonus grubs (smaller ones are worth more,
   and the most valuable one runs from you). Sus grubs look like regular ones except for a brief blink,
-  tint or twitch every few seconds, and cost you points. The rules are a pure TypeScript reducer, and a
+  tint or twitch every few seconds, and cost you points. Juke grubs run from you, quicker than the snake at
+  first, until they wear themselves out. Odd grubs turn up more often the higher you score. The rules are a
+  pure TypeScript reducer, and a
   Python Worker keeps separate keyboard and touch leaderboards.
 - **About Face 2.0**: a TypeScript/Vite/Svelte/Cloudflare app that evolves drawings from scanned doodles with a genetic
   algorithm, then exports the results as fonts (.otf) and SVG icon sprites. (Private repo.)
