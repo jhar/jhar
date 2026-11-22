@@ -21,6 +21,8 @@ infrastructure managed with Terraform.
   first, until they wear themselves out. Odd grubs turn up more often the higher you score. The rules are a
   pure TypeScript reducer, and a
   Python Worker keeps separate keyboard and touch leaderboards.
+- **[Haiku](https://justinharrison.dev/scratch/haiku)**: some of the haiku I've written since 2024, one per
+  page, each over its own full-screen background drawn in SVG as a React component.
 - **About Face 2.0**: a TypeScript/Vite/Svelte/Cloudflare app that evolves drawings from scanned doodles with a genetic
   algorithm, then exports the results as fonts (.otf) and SVG icon sprites. (Private repo.)
 - **[img-rekognition-pipeline](https://github.com/jhar/img-rekognition-pipeline)**: S3 upload
